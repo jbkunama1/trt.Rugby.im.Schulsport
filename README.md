@@ -67,7 +67,7 @@ Vorschläge:
 
 ## 🔗 Externe Grundlagen
 - Rugby Deutschland – Projekt "Tackle Right" (Rugby im Schulsport)
-- ![Rugby Tackle Right](https://www.rugbydeutschland.org/tackle-right--951952v4)
+- [Rugby Tackle Right](https://www.rugbydeutschland.org/tackle-right--951952v4)
   
 - Bildungsplan 2016 Baden-Württemberg, Fach Sport, Sekundarstufe I
 
