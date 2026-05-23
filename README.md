@@ -4,7 +4,7 @@
 ![Klasse](https://img.shields.io/badge/Klasse-8%2F9%2F10-blue)
 ![Fach](https://img.shields.io/badge/Fach-Sport-orange)
 ![Umfang](https://img.shields.io/badge/Umfang-4x45%20Min.-purple)
-![Sprache](https://img.shields.io/badge/Sprache-Deutsch-yellow)
+![Sprache](https://img.shields.io/badge/Sprache-Deutsch-yellow)[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
 
 ---
 
